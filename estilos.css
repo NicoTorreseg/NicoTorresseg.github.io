@@ -8,18 +8,25 @@
 	min-height: 90vh;
 }
 
-
+#seccionexp{
+	
+	position: relative;
+	background-image: url(Imagenes/fondotranspa.png);
+	background-size:contain;
+	min-height: 20vh;
+	
+}
 
 #navbarSupportedContent{
 
 	position: relative;
-	left: 68.7%;
+	left: 57.7%;
 	transform: translatex(-50%);
 
 }
 #datoscvrow {
 	position: relative;
-	left: 75.5%;
+	left: 84.5%;
 	transform: translatex(-50%);
 
 }
