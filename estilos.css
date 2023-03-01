@@ -1,0 +1,71 @@
+
+
+.main-header{
+	/* imagen de fondo */
+	position: relative;
+	background-image: url(Imagenes/fondotranspa.png);
+	background-size:cover;
+	min-height: 90vh;
+}
+
+
+
+#navbarSupportedContent{
+
+	position: relative;
+	left: 68.7%;
+	transform: translatex(-50%);
+
+}
+#datoscvrow {
+	position: relative;
+	left: 75.5%;
+	transform: translatex(-50%);
+
+}
+#fuente-google{
+	font-family: 'Roboto Slab', serif;
+}
+f
+
+#datoscvrow2 {
+	position: relative;
+	left: 60.4%;
+	transform: translatex(-50%);
+}
+#texto-color-negro {
+	color: #0c0704;
+}
+
+
+
+
+.background-overlay {
+	/* fondo r */
+    background: rgba(214, 21, 21, 0.507);
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 90vh;
+    text-align: right;
+}
+.rownav-azul {
+background-color: rgb(6, 57, 105) ;
+border-style: solid;
+
+
+}
+
+.raya-puntosentext{
+	text-decoration: underline dotted;
+}
+.nav-link {
+	color: white;
+
+}
+
+/* .boton2{
+	background-color: aqua !important;
+} */ 
+/* Preguntar al profe. Como modificar el color de un solo boton, sin modificar al otro.
+*/ 
